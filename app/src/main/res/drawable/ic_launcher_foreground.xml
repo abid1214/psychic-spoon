@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Two overlapping rounded shapes: a conversation between two people. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,36h24a10,10 0,0 1,10 10v12a10,10 0,0 1,-10 10H48l-10,8v-8a10,10 0,0 1,-10 -10V46a10,10 0,0 1,10 -10z" />
+    <path
+        android:fillColor="#F4B183"
+        android:pathData="M76,48a8,8 0,0 1,8 8v10a8,8 0,0 1,-8 8v6l-8,-6H58a8,8 0,0 1,-7 -4h11a14,14 0,0 0,14 -14z" />
+</vector>

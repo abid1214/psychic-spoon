@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Solace</string>
+    <string name="channel_reminders">Session reminders</string>
+</resources>
